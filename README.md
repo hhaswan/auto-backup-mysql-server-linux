@@ -9,4 +9,4 @@ Skenario terdiri dari 2 server :
 * Keep day 14 hari. Artinya file backup yang lebih dari 14 hari akan terhapus
 * File backup tersimpan di local dan diduplikasi ke server backup
 
-Baca selengkapnya di [Blog saya](https://hasbullahmarwan.com/linux-server/script-auto-backup-mysql-linux)
+**Baca selengkapnya di [Blog saya](https://hasbullahmarwan.com/linux-server/script-auto-backup-mysql-linux)**
