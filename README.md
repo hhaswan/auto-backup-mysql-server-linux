@@ -8,3 +8,5 @@ Skenario terdiri dari 2 server :
 * Buat user tersendiri khusus untuk backup DB
 * Keep day 14 hari. Artinya file backup yang lebih dari 14 hari akan terhapus
 * File backup tersimpan di local dan diduplikasi ke server backup
+
+How to use [Blog saya](https://hasbullahmarwan.com/linux-server/script-auto-backup-mysql-linux)
