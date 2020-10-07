@@ -1,7 +1,7 @@
-# auto-backup-mysql-server-linux
-Skenario terdiri dari 2 serve : 
-1. Database server
-2. backup server
+# Auto backup MySQL server linux
+Skenario terdiri dari 2 server : 
+1. Database server (192.168.1.100)
+2. Backup server (192.168.1.111)
 
 ## Beberapa hal penting yang perlu diperhatikan :
 * Backup folder /backup-db1
